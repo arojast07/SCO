@@ -1,0 +1,2 @@
+import{u as r,r as t,j as e}from"./index-Bb3NupjY.js";function i(){const s=r();return t.useEffect(()=>{s("/login",{replace:!0})},[s]),e.jsx("div",{className:"min-h-screen flex items-center justify-center",children:e.jsxs("div",{className:"text-center",children:[e.jsx("div",{className:"animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600 mx-auto mb-4"}),e.jsx("p",{className:"text-gray-600",children:"Redirigiendo..."})]})})}export{i as default};
+//# sourceMappingURL=page-yrZvlanR.js.map
